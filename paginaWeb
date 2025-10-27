@@ -1,1 +1,19 @@
-esta es una pagina web
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primera Página</title>
+</head>
+<body>
+
+    <h1>¡Hola, Mundo!</h1>
+    <p>Este es un ejemplo básico de una página web en HTML.</p>
+
+    <h2>Contenido Adicional</h2>
+    <p>Puedes agregar más párrafos, como este.</p>
+    <p>Aquí tienes un <a href="https://www.ejemplo.com">enlace</a> de ejemplo.</p>
+
+    <h3>Una Imagen</h3>
+    <img src="https://via.placeholder.com/150" alt="Una imagen de ejemplo">
+
+</body>
+</html>
